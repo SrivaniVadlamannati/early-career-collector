@@ -1,0 +1,16 @@
+{
+ "date": "2026-11-25",
+ "status": "INCOMPLETE - 1 of 245 sources failed. 'No new' applies only to the 244 sources that succeeded.",
+ "ok": 244,
+ "total": 245,
+ "failed": 1,
+ "new": 5,
+ "review": 24,
+ "other_software": 9,
+ "older": 1,
+ "baseline": 0,
+ "unclassified": 1,
+ "window_hours": 24.0,
+ "zero_job_warnings": 0,
+ "stamp": "2026-11-25_1637"
+}
